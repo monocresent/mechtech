@@ -1,0 +1,26 @@
+[
+  {
+    "id": "project-one",
+    "title": "Project One",
+    "category": "Mechanical Design",
+    "description": "Short description of the first portfolio piece. Replace with real project details, scope, and outcome.",
+    "image": "/images/placeholder-1.jpg",
+    "tags": ["CAD", "Prototyping"]
+  },
+  {
+    "id": "project-two",
+    "title": "Project Two",
+    "category": "Web / Digital",
+    "description": "Short description of the second portfolio piece. Replace with real project details, scope, and outcome.",
+    "image": "/images/placeholder-2.jpg",
+    "tags": ["Web Design", "Branding"]
+  },
+  {
+    "id": "project-three",
+    "title": "Project Three",
+    "category": "Fabrication",
+    "description": "Short description of the third portfolio piece. Replace with real project details, scope, and outcome.",
+    "image": "/images/placeholder-3.jpg",
+    "tags": ["Manufacturing", "Testing"]
+  }
+]
