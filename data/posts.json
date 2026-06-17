@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "welcome-to-mechtechnology",
+    "title": "Welcome to MechTechnology",
+    "date": "2026-06-17",
+    "author": "MechTechnology Team",
+    "excerpt": "We're excited to launch MechTechnology — your local source for precision engineering components and technical solutions. Here's what we're building and what you can expect from us.",
+    "tags": ["Company", "News"]
+  },
+  {
+    "slug": "sourcing-components-south-africa",
+    "title": "Sourcing Engineering Components in South Africa",
+    "date": "2026-06-10",
+    "author": "MechTechnology Team",
+    "excerpt": "Getting the right parts at the right time is one of the biggest challenges for engineers and makers in South Africa. We break down the landscape and explain how MechTechnology is changing things.",
+    "tags": ["Engineering", "Procurement"]
+  },
+  {
+    "slug": "getting-started-microcontrollers",
+    "title": "Getting Started with Microcontrollers: A Practical Guide",
+    "date": "2026-06-03",
+    "author": "MechTechnology Team",
+    "excerpt": "Development boards like the MT-328P are powerful starting points for embedded projects. This guide covers the basics of wiring, programming, and debugging your first hardware project.",
+    "tags": ["Tutorial", "Electronics"]
+  }
+]

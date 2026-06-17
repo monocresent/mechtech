@@ -1,26 +1,38 @@
 [
   {
     "id": "project-one",
-    "title": "Project One",
+    "slug": "custom-bracket-design",
+    "title": "Custom Bracket Design",
     "category": "Mechanical Design",
-    "description": "Short description of the first portfolio piece. Replace with real project details, scope, and outcome.",
+    "client": "Industrial Client",
+    "date": "2025-11",
+    "description": "Detailed CAD design and optimisation of custom mounting brackets for industrial equipment. The solution reduced material usage by 15% while maintaining all required load tolerances. Includes full FEA validation and manufacturing drawings.",
     "image": "/images/placeholder-1.jpg",
-    "tags": ["CAD", "Prototyping"]
+    "images": [],
+    "tags": ["CAD", "FEA", "SolidWorks", "Fabrication"]
   },
   {
     "id": "project-two",
-    "title": "Project Two",
+    "slug": "digital-product-catalog",
+    "title": "Digital Product Catalog",
     "category": "Web / Digital",
-    "description": "Short description of the second portfolio piece. Replace with real project details, scope, and outcome.",
+    "client": "E-commerce Client",
+    "date": "2026-01",
+    "description": "Full-stack product catalog web application with advanced filtering, dynamic search, and a custom shopping cart. Built with Next.js 14, TypeScript, and Tailwind CSS. Integrated with a third-party inventory management API.",
     "image": "/images/placeholder-2.jpg",
-    "tags": ["Web Design", "Branding"]
+    "images": [],
+    "tags": ["Next.js", "TypeScript", "UI/UX", "API Integration"]
   },
   {
     "id": "project-three",
-    "title": "Project Three",
+    "slug": "cnc-prototype-run",
+    "title": "CNC Prototype Run",
     "category": "Fabrication",
-    "description": "Short description of the third portfolio piece. Replace with real project details, scope, and outcome.",
+    "client": "Startup Client",
+    "date": "2025-08",
+    "description": "End-to-end prototype fabrication for a consumer hardware startup. Managed CNC machining of aluminium enclosures, post-processing, and quality inspection. Delivered 25 production-representative units on a tight six-week timeline.",
     "image": "/images/placeholder-3.jpg",
-    "tags": ["Manufacturing", "Testing"]
+    "images": [],
+    "tags": ["CNC", "Aluminium", "Prototyping", "QA"]
   }
 ]

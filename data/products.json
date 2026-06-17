@@ -1,0 +1,137 @@
+[
+  {
+    "id": "mt-328p",
+    "sku": "MT-328P-DEV",
+    "name": "MT-328P Development Core Module – 16MHz | DIP-28 Platform",
+    "category": "Microcontrollers & Logic",
+    "badge": "Popular",
+    "price": 85.00,
+    "stock": "in-stock"
+  },
+  {
+    "id": "mt-conn-4w",
+    "sku": "MT-CONN-4W",
+    "name": "MT-CONN Heavy Duty 4-Way Terminal Block – Friction Lock – 5.08mm",
+    "category": "Interconnects",
+    "badge": null,
+    "price": 14.50,
+    "stock": "in-stock"
+  },
+  {
+    "id": "buck-boost-15a",
+    "sku": "MT-BB-15A",
+    "name": "15A Buck-Boost Step Down DC-DC Converter Variable Module",
+    "category": "Power Regulation",
+    "badge": "New",
+    "price": 120.00,
+    "stock": "in-stock"
+  },
+  {
+    "id": "pot-10k",
+    "sku": "MT-POT-10K",
+    "name": "10kΩ Precision Multi-Turn Trimming Potentiometer",
+    "category": "Signal Manipulation",
+    "badge": null,
+    "price": 18.50,
+    "stock": "in-stock"
+  },
+  {
+    "id": "mtn222-mosfet",
+    "sku": "MTN222",
+    "name": "MTN222 N-Channel Logic Level Enhancement MOSFET – 60V 30A",
+    "category": "Discrete Semiconductors",
+    "badge": null,
+    "price": 9.50,
+    "stock": "in-stock"
+  },
+  {
+    "id": "mt-housing-10w",
+    "sku": "MT-HOUSING-10W",
+    "name": "MT-HOUSING Dual-Row 10-Way Connector Shell",
+    "category": "Interconnects",
+    "badge": null,
+    "price": 7.00,
+    "stock": "in-stock"
+  },
+  {
+    "id": "resistor-pack",
+    "sku": "MT-RES-PACK",
+    "name": "Metal Film Resistor Assortment Pack – 0.25W 1% (50 Units)",
+    "category": "Passives",
+    "badge": "Best Seller",
+    "price": 22.00,
+    "stock": "in-stock"
+  },
+  {
+    "id": "ntc-10k-probe",
+    "sku": "MT-NTC-10K",
+    "name": "NTC 10kΩ Thermal Sensor Probe – Waterproof Stainless Steel Capsule",
+    "category": "Thermal Regulation",
+    "badge": null,
+    "price": 35.00,
+    "stock": "lead-time"
+  },
+  {
+    "id": "jumper-wire-spool",
+    "sku": "MT-JW-22R",
+    "name": "Solid Core Jumper Wire Spool – 22AWG Insulated Red 10m",
+    "category": "Interconnects",
+    "badge": null,
+    "price": 45.00,
+    "stock": "in-stock"
+  },
+  {
+    "id": "cap-470uf-25v",
+    "sku": "MT-CAP-470-25",
+    "name": "Low-ESR Aluminium Electrolytic Capacitor 470uF 25V",
+    "category": "Passives",
+    "badge": null,
+    "price": 3.50,
+    "stock": "in-stock"
+  },
+  {
+    "id": "cap-100nf-pack",
+    "sku": "MT-CAP-100N",
+    "name": "Multilayer Ceramic Capacitor 100nF 50V (Pack of 10)",
+    "category": "Passives",
+    "badge": null,
+    "price": 5.00,
+    "stock": "in-stock"
+  },
+  {
+    "id": "toggle-spdt",
+    "sku": "MT-SW-SPDT",
+    "name": "Sub-Miniature SPDT Toggle Switch – Panel Mount 3A 250VAC",
+    "category": "Electromechanical",
+    "badge": null,
+    "price": 16.00,
+    "stock": "in-stock"
+  },
+  {
+    "id": "pca9685-shield",
+    "sku": "MT-PCA9685",
+    "name": "16-Channel I2C PWM/Servo Driver Shield – PCA9685 Core",
+    "category": "Microcontrollers & Logic",
+    "badge": "Popular",
+    "price": 95.00,
+    "stock": "lead-time"
+  },
+  {
+    "id": "lm317-to220",
+    "sku": "MT-LM317",
+    "name": "LM317 Linear Variable Voltage Stabilizer IC – TO-220 Package",
+    "category": "Power Regulation",
+    "badge": null,
+    "price": 12.00,
+    "stock": "in-stock"
+  },
+  {
+    "id": "oled-096-i2c",
+    "sku": "MT-OLED-096",
+    "name": "0.96-inch OLED Display Module – 128x64 I2C Blue Interface",
+    "category": "Optoelectronics",
+    "badge": "New",
+    "price": 78.00,
+    "stock": "in-stock"
+  }
+]
